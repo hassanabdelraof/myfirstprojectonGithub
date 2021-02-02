@@ -1,7 +1,8 @@
 #include <iostream>
+using namespace std;
 int main(){
-	std::cout<<"Test"<<std::endl;
-     std::cout<<"Hello World"<<std::endl;
-     std::cout<<"New Commit"<<std::endl;
+	cout<<"Test"<<endl;
+     cout<<"Hello World"<<endl;
+     cout<<"New Commit"<<endl;
 
 }
